@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 37aa0e27ea2fb604a848cdcafada2f4b
+guid: 9aee1128e4c15f94e9f362a3c21530a5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idlet_0
+      name: falling_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 1
         y: 0
-        width: 21
-        height: 39
+        width: 29
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b35f3f0b8914534798b97f90299cbe6
-      internalID: 1314185247
+      spriteID: a3f18335b9bbe3241a72ec74707d2c33
+      internalID: 416875235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idlet_1
+      name: falling_1
       rect:
         serializedVersion: 2
-        x: 37
+        x: 33
         y: 0
-        width: 21
-        height: 39
+        width: 29
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb1615d250caf4e4ea4336f32d5113b4
-      internalID: 504103501
+      spriteID: 5bdcbe37939a96541890c80d288e5112
+      internalID: -1884769961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idlet_2
+      name: falling_2
       rect:
         serializedVersion: 2
-        x: 69
+        x: 65
         y: 0
-        width: 21
-        height: 39
+        width: 29
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,155 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a107d7ec570306e4fb3b814d9c2b0258
-      internalID: -2081273795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_3
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b89d7cba28983bb438aa02cd9dde78ef
-      internalID: -1411586181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_4
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cd7cfb6f73047c47b68605661f28eaf
-      internalID: -1621722296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_5
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 932fe25f028989741a7346f908b6d47d
-      internalID: 996487584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_6
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69411e9a5831ece4fa40f6d93d00b09e
-      internalID: -496671389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_7
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04fbc6a39fb075a488200dcd1f997b3b
-      internalID: -932109320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_8
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 297312979099e1b4fa0742d5ac726e40
-      internalID: 1384382658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idlet_9
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 0
-        width: 21
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2319533e6eeecc24d9fcc52c87a5f219
-      internalID: 1770715797
+      spriteID: 6b2b09f1f4416534e805d13d0f928e28
+      internalID: 1132900711
       vertices: []
       indices: 
       edges: []
@@ -337,16 +190,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      idlet_0: 1314185247
-      idlet_1: 504103501
-      idlet_2: -2081273795
-      idlet_3: -1411586181
-      idlet_4: -1621722296
-      idlet_5: 996487584
-      idlet_6: -496671389
-      idlet_7: -932109320
-      idlet_8: 1384382658
-      idlet_9: 1770715797
+      falling_0: 416875235
+      falling_1: -1884769961
+      falling_2: 1132900711
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
